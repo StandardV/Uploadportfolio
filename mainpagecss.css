@@ -18,7 +18,7 @@ body{/*"D:\pexels-negative-space-48606.jpg"*/
 }
 footer{
     /*margin-left:92%;*/
-    position:absolute;
+    position:fixed;
     bottom:0;
     right:10px;
     background-color: rgba(255, 166, 0, 0.701);
